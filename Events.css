@@ -1,0 +1,86 @@
+.logo-container{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+a{
+    color: yellow;
+}
+
+.logo{
+    width: 146px;
+}
+.class{
+    padding: 0%;
+    margin: 0%;
+}
+h1{
+    text-align: center;
+    margin-top: 0%;
+}
+.headd{
+    padding:15px;
+    display: inline;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.Event{
+    background-color: gray;
+    padding: 0%;
+    font-size: 25px;
+    color: yellow;
+    display: block;
+    height: 88px;
+    width: 100%;
+}
+.Event a:hover{
+    background-color: rgb(117, 117, 74);
+}
+#Event{
+    float: left;
+    margin: 30px;
+}
+#main{
+    float: right;
+    margin: 30px;
+}
+body{
+    background-image: url(BackgroundFinal.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#firstLine{
+    margin: 0%;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+#E1{
+    margin-right: 48px;
+}
+#E2{
+    margin-right: 48px;
+}
+#E3{
+    margin-right: 48px;
+}
+#secondLine{
+    margin: 0%;
+    margin-bottom: 48px;
+}
+#E5{
+    margin-right: 48px;
+}
+#E6{
+    margin-right: 48px;
+}
+#E7{
+    margin-right: 48px;
+}
+#E4{
+    margin-right: 48px;
+}
+
+

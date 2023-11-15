@@ -1,0 +1,106 @@
+.logo-container{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.logo{
+    width: 146px;
+}
+.class{
+    padding: 0%;
+    margin: 0%;
+}
+h1{
+    text-align: center;
+    margin-top: 0%;
+}
+.headd{
+    padding:15px;
+    display: inline;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+a{
+    color: yellow;
+}
+.Culture{
+    background-color: gray;
+    padding: 0%;
+    font-size: 25px;
+    color: yellow;
+    display: block;
+    height: 88px;
+    width: 100%;
+}
+.Culture a:hover{
+    background-color: rgb(117, 117, 74);
+}
+#Culture{
+    float: left;
+    margin: 30px;
+}
+#main{
+    float: right;
+    margin: 30px;
+}
+body{
+    background-image: url(BackgroundFinal.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#firstLine{
+    margin: 0%;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+#C1{
+    margin-right: 48px;
+}
+#C2{
+    margin-right: 48px;
+}
+#C3{
+    margin-right: 48px;
+}
+#C4{
+    margin-right: 48px;
+}
+#secondLine{
+    margin: 0%;
+    margin-bottom: 48px;
+}
+#C5{
+    margin-right: 48px;
+}
+#C6{
+    margin-right: 48px;
+}
+#C7{
+    margin-right: 48px;
+}
+#thirdLine{
+    margin: 0%;
+    margin-bottom: 48px;
+}
+#C9{
+    margin-right: 48px;
+}
+#C10{
+    margin-right: 48px;
+}
+#C11{
+    margin-right: 48px;
+}
+#fourthLine{
+    margin: 0%;
+    margin-bottom: 48px;
+}
+#C13{
+    margin-right: 48px;
+}
+#C14{
+    margin-right: 48px;
+}

@@ -1,0 +1,94 @@
+.logo-container{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.logo{
+    width: 146px;
+}
+h1{
+    text-align: center;
+    margin-top: 0%;
+}
+.headd{
+    padding:15px;
+    display: inline;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.CF{
+    background-color: gray;
+    padding: 0%;
+    font-size: 25px;
+    color: yellow;
+    display: block;
+    height: 88px;
+    width: 100%;
+}
+.CF a:hover{
+    background-color: rgb(117, 117, 74);
+}
+#CF{
+    float: left;
+    margin: 30px;
+}
+#main{
+    float: right;
+    margin: 30px;
+}
+body{
+    background-image: url(BackgroundFinal.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+main div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 360px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 3em;
+}
+
+ul li{
+    font-size: 30px;
+}
+
+ul li a{
+    color:  white;
+}
+
+ul li:first-child a{
+    color: blue;
+    text-decoration-color: black;
+
+}
+
+ul li:first-child a span{
+    color: black;
+    text-decoration-color: black;
+}
+
+ul li:nth-child(2) a{
+    color: white;
+    background:linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 60px;
+    display: inline-block;
+
+}
+a{
+    color: yellow;
+}
